@@ -167,7 +167,7 @@ Project_9/
 ├── Pandas_Analyzer_and_Data_Visualization.py
 ├── sales_data.csv
 ├── sales_data_2.csv
-└── README.md
+ README.md
 ```
 
 
