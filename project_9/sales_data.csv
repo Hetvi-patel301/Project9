@@ -1,0 +1,30 @@
+Order_ID,Date,Product,Category,Quantity,Sales,Region,Profit
+1001,06-05-2025,Water Bottle,Accessories,2,350,South,72.12
+1002,07-10-2025,Headphones,Electronics,12,19668,North,3836.03
+1003,22-04-2025,Backpack,Accessories,7,5810,South,494.23
+1004,29-11-2025,Pen Set,Stationery,10,560,Central,98.23
+1005,04-01-2025,Desk,Furniture,4,45436,South,8186.44
+1006,21-04-2025,Printer,Electronics,7,74018,East,9417.91
+1007,26-06-2025,Smartphone,Electronics,2,73796,Central,7117.02
+1008,05-03-2025,Monitor,Electronics,1,18955,West,2996.83
+1009,13-11-2025,Smartphone,Electronics,9,280917,East,62082.32
+1010,27-04-2025,Backpack,Accessories,4,3936,East,345.54
+1011,21-08-2025,Smartphone,Electronics,4,74476,East,10770.83
+1012,17-05-2025,Headphones,Electronics,6,22260,North,2573.62
+1013,06-05-2025,Backpack,Accessories,11,15400,South,2630.38
+1014,24-11-2025,Notebook,Stationery,7,448,Central,111.2
+1015,29-01-2025,Keyboard,Electronics,11,12804,South,2858.94
+1016,19-04-2025,Laptop,Electronics,6,348870,Central,43788.75
+1017,22-07-2025,Printer,Electronics,6,50898,West,9743.13
+1018,15-10-2025,Headphones,Electronics,5,9715,Central,1184.52
+1019,26-10-2025,Monitor,Electronics,12,198924,West,30402.3
+1020,16-02-2025,Chair,Furniture,4,14532,North,2421.31
+1021,05-08-2025,Smartphone,Electronics,3,67452,Central,14478.81
+1022,28-08-2025,Smartphone,Electronics,7,259063,Central,46968.39
+1023,15-12-2025,Monitor,Electronics,9,189927,North,45622.98
+1024,24-06-2025,Water Bottle,Accessories,9,3807,North,801.99
+1025,15-05-2025,Monitor,Electronics,7,67137,Central,10549.44
+1026,02-06-2025,Headphones,Electronics,9,15039,Central,3428.71
+1027,24-03-2025,Backpack,Accessories,4,5304,Central,761.47
+1028,10-01-2025,Pen Set,Stationery,1,203,North,27.43
+1029,18-10-2025,Chair,Furniture,5,22305,North,2004.04

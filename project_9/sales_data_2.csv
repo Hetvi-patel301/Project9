@@ -1,0 +1,21 @@
+Order_ID,Date,Product,Category,Quantity,Sales,Region,Profit
+2001,2026-01-03,Tablet,Electronics,2,30000,West,4500
+2002,2026-01-07,Office Chair,Furniture,4,20000,South,4000
+2003,2026-01-12,Mouse,Accessories,10,5000,North,1200
+2004,2026-01-18,Keyboard,Accessories,6,9000,East,1800
+2005,2026-02-02,Printer,Electronics,2,16000,Central,2400
+2006,2026-02-09,Desk,Furniture,3,21000,West,4200
+2007,2026-02-14,Notebook,Stationery,25,2500,South,625
+2008,2026-02-20,Monitor,Electronics,4,48000,North,7200
+2009,2026-03-05,Headphones,Electronics,5,7500,East,1500
+2010,2026-03-11,Pen Set,Stationery,15,1800,Central,450
+2011,2026-03-17,Smartphone,Electronics,2,32000,West,5000
+2012,2026-03-25,Bookshelf,Furniture,2,14000,South,2800
+2013,2026-04-04,Webcam,Accessories,3,6000,North,1200
+2014,2026-04-10,Laptop,Electronics,1,62000,East,9300
+2015,2026-04-16,File Folder,Stationery,30,3000,Central,750
+2016,2026-04-22,Table,Furniture,2,18000,West,3600
+2017,2026-05-02,USB Drive,Accessories,12,7200,South,1440
+2018,2026-05-09,Smartwatch,Electronics,3,18000,North,2700
+2019,2026-05-15,Desk Lamp,Furniture,5,7500,East,1500
+2020,2026-05-21,Calculator,Stationery,8,4000,Central,1000
